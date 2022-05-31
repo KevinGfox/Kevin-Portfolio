@@ -8,5 +8,7 @@ This project goal is to build a machine learning model able to estimate the week
 The project can be divided into three steps:
 
 Part 1 : make an EDA and all the necessary preprocessings to prepare data for machine learning 
+
 Part 2 : train a linear regression model (baseline) 
+
 Part 3 : avoid overfitting by training a regularized regression model
