@@ -12,3 +12,13 @@ Part 1 : make an EDA and all the necessary preprocessings to prepare data for ma
 Part 2 : train a linear regression model (baseline) 
 
 Part 3 : avoid overfitting by training a regularized regression model
+
+# PROJECT 2 : Disaster tweets
+
+NLP competition on Kaggle : https://www.kaggle.com/c/nlp-getting-started
+> I used deep learning models to classify tweets. 
+The project can be divided into three steps:
+
+- Part 1 : Make an EDA
+- Part 2 : Make the necessary preprocessings to prepare data for deep learning models
+- Part 3 : Train two models and identify the early stoping point
