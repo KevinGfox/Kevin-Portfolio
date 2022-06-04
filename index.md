@@ -3,9 +3,9 @@ This project goal is to build a machine learning model able to estimate the week
 
 The project can be divided into three steps:
 
-- Part 1 : make an EDA and all the necessary preprocessings to prepare data for machine learning 
-- Part 2 : train a linear regression model (baseline) 
-- Part 3 : avoid overfitting by training a regularized regression model
+- Part 1 : Make an EDA and all the necessary preprocessings to prepare data for machine learning 
+- Part 2 : Train a linear regression model (baseline) 
+- Part 3 : Avoid overfitting by training a regularized regression model
 
 # [PROJECT 4 : Deep learning models to classify tweets](https://github.com/KevinGfox/Disaster-Tweets)
 NLp competition on Kaggle : https://www.kaggle.com/c/nlp-getting-started
