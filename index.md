@@ -64,6 +64,7 @@ In order to help them make the right decision, they are asking you for some data
 # [PROJECT 6 : Random music generation app](https://github.com/KevinGfox/Certification/tree/main/bloc6)
 This is a team project application which generate random music. 
 We used MAGENTA library (https://github.com/magenta/magenta) to create the app.
+> link to the app demonstration : https://share.vidyard.com/watch/bsEUg8R77JVVEGGCbbv52v?
 
 
 
