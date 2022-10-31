@@ -38,7 +38,7 @@ The project can be divided into three steps:
 - Part 2 : Make the necessary preprocessings to prepare data for deep learning models
 - Part 3 : Train two models and identify the early stoping point
 
-# [PROJECT 5 : Deploy EDA analysis with app framework Streamlit and deploy API](https://github.com/KevinGfox/Certification/tree/main/bloc5)
+# [PROJECT 5 : Deploy an EDA with app framework Streamlit and deploy API](https://github.com/KevinGfox/Certification/tree/main/bloc5)
 When using Getaround, drivers book cars for a specific time period, from an hour to a few days long. They are supposed to bring back the car on time, but it happens from time to time that drivers are late for the checkout.
 
 Late returns at checkout can generate high friction for the next driver if the car was supposed to be rented again on the same day : Customer service often reports users unsatisfied because they had to wait for the car to come back from the previous rental or users that even had to cancel their rental because the car wasn’t returned on time.
