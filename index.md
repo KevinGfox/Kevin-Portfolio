@@ -1,4 +1,4 @@
-# [PROJECT 1 : Linear regression model to predict walmart sales](https://github.com/KevinGfox/Walmart-project)
+# [PROJECT 1 : Linear regression model to predict walmart sales](https://github.com/KevinGfox/Certification/tree/main/bloc3)
 This project goal is to build a machine learning model able to estimate the weekly sales in Walmart stores, with the best precision possible on the predictions made. Such a model would help Walmart's marketing services understand better how the sales are influenced by economic indicators, and might be used to plan future marketing campaigns.
 
 The project can be divided into three steps:
@@ -29,7 +29,7 @@ Goals of this project:
 > Store all the information above in a data lake
 > Extract, transform and load cleaned data from your datalake to a data warehouse
 
-# [PROJECT 4 : Deep learning models to classify tweets](https://github.com/KevinGfox/Disaster-Tweets)
+# [PROJECT 4 : Deep learning models to classify tweets](https://github.com/KevinGfox/Certification/tree/main/bloc4)
 NLP competition on Kaggle : https://www.kaggle.com/c/nlp-getting-started
 > I used deep learning models to classify tweets. 
 The project can be divided into three steps:
