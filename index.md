@@ -21,7 +21,7 @@ This project is a composed with two different data collection (web scrapping of 
 
 > Store all the information above in a data lake
 
-> Extract, transform and load cleaned data from your datalake to a data 
+> Extract, transform and load cleaned data from your datalake (S3) to a data warehouse (RDS)
 
 > Create animated framed graphics
 
