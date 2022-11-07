@@ -13,15 +13,15 @@ The goal is to understand what happens during a speed dating and especially to u
 I realised and EDA with a feature selection to understand the influence of age and races on getting a second date.
 
 # [PROJECT 3 : Data collection and managment with KAYAK](https://github.com/KevinGfox/Certification/tree/main/bloc1)
-This project is a composed with two different data collection (web scrapping of booking.com and an API request of openweathermap.org) and ETL process to create animated graphics with both selected weather and hotels data.Goals of this project:
+This project is a composed with two different data collection (web scrapping of booking.com and an API request of openweathermap.org) and ETL process to create animated graphics with both selected weather and hotels data. Goals of this project:
 
 > Get weather data from each destination (Temperature, Rainfall, Winforce)
 
 > Get hotel's info about each destination (Hotel description, Ratings, GPS)
 
-> Store all the information above in a data lake
+> Store all the information above in a data lake (S3)
 
-> Extract, transform and load cleaned data from your datalake (S3) to a data warehouse (RDS)
+> Extract, transform and load cleaned data to a data warehouse (RDS)
 
 > Create animated framed graphics
 
