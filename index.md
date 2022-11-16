@@ -7,10 +7,14 @@ The project can be divided into three steps:
 - Part 2 : Train a linear regression model (baseline) 
 - Part 3 : Avoid overfitting by training a regularized regression model
 
+Libraries : Pandas, Numpy, Scikit-learn, Plotly
+
 # [PROJECT 2 : Exploratory data analysis on speedating](https://github.com/KevinGfox/Certification/tree/main/bloc2)
 competition on Kaggle : https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment
 The goal is to understand what happens during a speed dating and especially to understand what will influence the obtaining of a second date.
 I realised and EDA with a feature selection to understand the influence of age and races on getting a second date.
+
+Libraries : Pandas, Numpy, Scikit-learn, Plotly
 
 # [PROJECT 3 : Data collection and managment with KAYAK](https://github.com/KevinGfox/Certification/tree/main/bloc1)
 This project is a composed with two different data collection (web scrapping of booking.com and an API request of openweathermap.org) and ETL process to create animated graphics with both selected weather and hotels data. Goals of this project:
