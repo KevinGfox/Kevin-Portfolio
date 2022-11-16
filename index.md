@@ -23,11 +23,13 @@ This project is a composed with two different data collection (web scrapping of 
 
 > Get hotel's info about each destination (Hotel description, Ratings, GPS)
 
-> Store all the information above in a data lake (S3)
+> Store all the information above in a data lake (AWS - S3)
 
-> Extract, transform and load cleaned data to a data warehouse (RDS)
+> Extract, transform and load cleaned data to a data warehouse (AWS - RDS)
 
 > Create animated framed graphics
+
+Libraries : Pandas, Plotly, Scrapy, Boto3, SQLalchemy
 
 # [PROJECT 4 : Deep learning models to classify tweets](https://github.com/KevinGfox/Certification/tree/main/bloc4)
 NLP competition on Kaggle : https://www.kaggle.com/c/nlp-getting-started
@@ -38,6 +40,8 @@ The project can be divided into three steps:
 - Part 2 : Make the necessary preprocessings to prepare data for deep learning models
 - Part 3 : Train two models and identify the early stoping point
 
+Libraries : Pandas, Numpy, Plotly, Matplotlib, Scikit-learn, Spacy, Tensorflow
+
 # [PROJECT 5 : Deploy an EDA with app framework Streamlit and deploy API](https://github.com/KevinGfox/Certification/tree/main/bloc5)
 Getaround is an online car sharing or peer-to-peer carsharing service that connects drivers who need to reserve cars with car owners who share their cars in exchange for payment.
 The project is divided in two parts. the first part is an exploratory data analysis to understand the importance of canceled rentals. The second part is to create a custom model indicating the optimum rental price to users. 
@@ -46,10 +50,14 @@ Goals of this project:
 
 > Create and API using the model connected with AWS & MLflow and deploy it with Docker & Heroku
 
+Libraries : Pandas, Numpy, Plotly, Scikit-learn, FastAPI, Streamlit, Uvicorn, Mlflow
+
 # [PROJECT 6 : Random music generation app](https://github.com/KevinGfox/Certification/tree/main/bloc6)
 This is a team project application which generate random music with a tuned variational autoencoder model.
 We used MAGENTA library (https://github.com/magenta/magenta) to create the app.
 > link to the app demonstration : https://share.vidyard.com/watch/bsEUg8R77JVVEGGCbbv52v?
+
+Libraries : Pandas, Numpy, Tensorflow, Magenta, midi2audio, Pyfluidsynth, PIL
 
 
 
