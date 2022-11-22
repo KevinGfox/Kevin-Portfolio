@@ -4,7 +4,7 @@ The project is divided in two parts. the first part is an exploratory data analy
 Goals of this project:
 > Build an EDA dashboards with Streamlit and deploy it with Docker & Heroku
 
-> Create and API using the model connected with AWS & MLflow and deploy it with Docker & Heroku
+> Create an API integrating a model connected with AWS & MLflow and deploy it with Docker & Heroku
 
 Libraries : Pandas, Numpy, Plotly, Scikit-learn, FastAPI, Streamlit, Uvicorn, Mlflow
 
