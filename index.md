@@ -1,4 +1,4 @@
-# [PROJECT 1 : Deploy an EDA with app framework Streamlit and deploy API](https://github.com/KevinGfox/Certification/tree/main/bloc5)
+# [PROJECT 1 : Deploy an EDA with app framework Streamlit and deploy an API](https://github.com/KevinGfox/Certification/tree/main/bloc5)
 Getaround is an online car sharing or peer-to-peer carsharing service that connects drivers who need to reserve cars with car owners who share their cars in exchange for payment.
 The project is divided in two parts. the first part is an exploratory data analysis to understand the importance of canceled rentals. The second part is to create a custom model indicating the optimum rental price to users. 
 Goals of this project:
