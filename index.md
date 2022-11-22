@@ -15,12 +15,16 @@ We used MAGENTA library (https://github.com/magenta/magenta) to create the app.
 
 Libraries : Pandas, Numpy, Tensorflow, Magenta, midi2audio, Pyfluidsynth, PIL
 
-# [PROJECT 3 : Exploratory data analysis on speedating](https://github.com/KevinGfox/Certification/tree/main/bloc2)
-competition on Kaggle : https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment
-The goal is to understand what happens during a speed dating and especially to understand what will influence the obtaining of a second date.
-I realised and EDA with a feature selection to understand the influence of age and races on getting a second date.
+# [PROJECT 3 : Deep learning models to classify tweets](https://github.com/KevinGfox/Certification/tree/main/bloc4)
+NLP competition on Kaggle : https://www.kaggle.com/c/nlp-getting-started
+> I created and optimized a deep learning model to classify tweets. 
+The project can be divided into three steps:
 
-Libraries : Pandas, Numpy, Scikit-learn, Plotly
+- Part 1 : Make an EDA
+- Part 2 : Make the necessary preprocessings to prepare data for deep learning models
+- Part 3 : Train two models and identify the early stoping point
+
+Libraries : Pandas, Numpy, Plotly, Matplotlib, Scikit-learn, Spacy, Tensorflow
 
 # [PROJECT 4 : Data collection and managment with KAYAK](https://github.com/KevinGfox/Certification/tree/main/bloc1)
 This project is a composed with two different data collection (web scrapping of booking.com and an API request of openweathermap.org) and ETL process to create animated graphics with both selected weather and hotels data. Goals of this project:
@@ -37,16 +41,12 @@ This project is a composed with two different data collection (web scrapping of 
 
 Libraries : Pandas, Plotly, Scrapy, Boto3, SQLalchemy
 
-# [PROJECT 5 : Deep learning models to classify tweets](https://github.com/KevinGfox/Certification/tree/main/bloc4)
-NLP competition on Kaggle : https://www.kaggle.com/c/nlp-getting-started
-> I used deep learning models to classify tweets. 
-The project can be divided into three steps:
+# [PROJECT 5 : Exploratory data analysis on speedating](https://github.com/KevinGfox/Certification/tree/main/bloc2)
+competition on Kaggle : https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment
+The goal is to understand what happens during a speed dating and especially to understand what will influence the obtaining of a second date.
+I realised and EDA with a feature selection to understand the influence of age and races on getting a second date.
 
-- Part 1 : Make an EDA
-- Part 2 : Make the necessary preprocessings to prepare data for deep learning models
-- Part 3 : Train two models and identify the early stoping point
-
-Libraries : Pandas, Numpy, Plotly, Matplotlib, Scikit-learn, Spacy, Tensorflow
+Libraries : Pandas, Numpy, Scikit-learn, Plotly
 
 # [PROJECT 6 : Linear regression model to predict walmart sales](https://github.com/KevinGfox/Certification/tree/main/bloc3)
 This project goal is to build a machine learning model able to estimate the weekly sales in Walmart stores, with the best precision possible on the predictions made. Such a model would help Walmart's marketing services understand better how the sales are influenced by economic indicators, and might be used to plan future marketing campaigns.
