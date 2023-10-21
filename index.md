@@ -1,4 +1,4 @@
-# [NEW PORTFOLIO CLIC HERE](https://kevingfox.github.io/Portfolio/)
+# [NEW PORTFOLIO CLICK HERE](https://kevingfox.github.io/Portfolio/)
 
 
 
